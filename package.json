@@ -1,0 +1,15 @@
+{
+  "name": "interno_tailwind",
+  "version": "1.0.0",
+  "description": "An \"Intaerno\" landing page using Tailwind CSS could focus on creating a visually engaging and responsive design with features that captivate users immediately.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.1",
+    "tailwindcss": "^4.1.1"
+  }
+}
